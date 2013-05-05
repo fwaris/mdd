@@ -551,7 +551,7 @@
       }
      else
       {
-       x1=p.find("#popup_msg").val(s);
+       x1=p.find("#popup_msg").text(s);
        f3=function(value)
        {
         value;
