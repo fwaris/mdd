@@ -83,7 +83,7 @@
     State:{
      credentials:Runtime.Field(function()
      {
-      return"Ah7f3rj-5hx-JvQEBWklc7NHwman6oJ4Ug8BqASMyvexSWbuL5IWT1qnxa0Ew9eB";
+      return"AuqWG1XfbU4Du1lZXAExxmNCqUWQQAkLqjIC_FUckyRmckAKS4pviW9ZkpZkw93X";
      }),
      dirMgr:Runtime.Field(function()
      {
@@ -378,7 +378,7 @@
         }
        else
         {
-         return Operators1.Raise(new Error("C:\\Users\\Fai\\Documents\\Visual Studio 2012\\Projects\\MobiFLW\\MobiFLW\\Website\\PathCalc.fs"+" at "+49+":"+24));
+         return Operators1.Raise(new Error("C:\\ws\\talks\\mobidevday\\MobiFLW\\MobiFLW\\MobiFLW\\Website\\PathCalc.fs"+" at "+49+":"+24));
         }
       },sp(startList,visitedSet))));
       f8=(mapping2=function(z)
